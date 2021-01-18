@@ -148,9 +148,9 @@ const App = () => {
         </Card>
       </div>
       <footer className="footer">
-        <p>
+        <small>
           &copy; {new Date().getFullYear()} Developed by Md. Irtiza Hossain.
-        </p>
+        </small>
       </footer>
     </>
   )
